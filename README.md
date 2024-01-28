@@ -1,5 +1,10 @@
+# 💫 About Me:
+<div></div>
+😎 My name is <b>Bryan</b>, i'm brazilian and live in the southeast of the country. I like to code and play games (most of the time).<br>
+📖 I'm currently studying Software Engineer.<br>
+🏹 Learning Java and Python.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bar0n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bryanlino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-lino) 
 
 # 💻 Tech Stack:
